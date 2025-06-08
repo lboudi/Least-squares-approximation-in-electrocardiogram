@@ -11,4 +11,5 @@
   \]
   for all polynomials \(q\) of degree at most \(m\).
 - **Application**: Study on real ECG signals, specifically in the case of atrial fibrillation (illustrated by a figure in the document).
-- ![Initial](./series_de_test/test07.svg "Initial")
+- ![Initial](./series_de_test/test7.svg "Initial")
+- ![Approchee](./series_de_test/test8.svg "Approchee")
